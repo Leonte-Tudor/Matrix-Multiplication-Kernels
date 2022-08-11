@@ -1,0 +1,3 @@
+/home/leon/CLionProjects/matrix_multiplication_cuda/cmake-build-debug/CMakeFiles/matrix_multiplication_cuda.dir
+/home/leon/CLionProjects/matrix_multiplication_cuda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leon/CLionProjects/matrix_multiplication_cuda/cmake-build-debug/CMakeFiles/rebuild_cache.dir

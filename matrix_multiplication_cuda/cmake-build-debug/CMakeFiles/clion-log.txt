@@ -1,0 +1,10 @@
+/opt/clion-2021.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2021.3/bin/ninja/linux/ninja -G Ninja -S /home/leon/CLionProjects/matrix_multiplication_cuda -B /home/leon/CLionProjects/matrix_multiplication_cuda/cmake-build-debug
+-- The CUDA compiler identification is NVIDIA 11.7.64
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /opt/cuda/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leon/CLionProjects/matrix_multiplication_cuda/cmake-build-debug
